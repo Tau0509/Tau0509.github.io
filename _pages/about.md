@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "陶子昊"
+title: "Zihao Tao"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-你好，我是陶子昊，目前为华中科技大学博士生。
+Hello! I am Zihao Tao, a PhD student at Huazhong University of Science and Technology.
