@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title : "陶子昊 | 华中科技大学"
+title                    : "Zihao Tao | Huazhong University of Science and Technology"
 title_separator          : "-"
-name : &name "陶子昊"
-description : &description "陶子昊，华中科技大学博士生。"
+name                     : &name "Zihao Tao"
+description              : &description "Zihao Tao, PhD student at Huazhong University of Science and Technology."
 url                      : https://tau0509.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,24 +24,24 @@ repository               : "Tau0509/Tau0509.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name : "陶子昊"
+  name             : "Zihao Tao"
   pronouns         : # example: "she/her"  
-  bio : "华中科技大学博士生"
-  location : 
-  employer : "华中科技大学"
+  bio              : "PhD student at Huazhong University of Science and Technology"
+  location         :
+  employer         : "Huazhong University of Science and Technology"
   uri              : # URL
-  email : 
+  email            :
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar : 
+  googlescholar    :
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid : 
+  orcid            :
   semantic         : # URL
   ssrn             : # URL
-  pubmed : 
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github : "Tau0509"
+  github           : "Tau0509"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky : 
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -149,7 +149,7 @@ og_description           :  # Social media default site image description
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name : "陶子昊"
+  name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
