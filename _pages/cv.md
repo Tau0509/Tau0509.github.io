@@ -9,12 +9,4 @@ redirect_from:
 
 ## Zihao Tao
 
-PhD student at Huazhong University of Science and Technology.
-
-## Education
-
-- PhD student, Huazhong University of Science and Technology
-
-## Publications
-
-No publications yet.
+Waiting for update........
