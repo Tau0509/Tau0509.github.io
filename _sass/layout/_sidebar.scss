@@ -314,10 +314,13 @@
   }
 
   li.author__employer {
-    display: flex;
-    align-items: flex-start;
     width: 100%;
     max-width: $sidebar-link-max-width;
+
+    a {
+      display: flex;
+      align-items: flex-start;
+    }
 
     i {
       flex: 0 0 auto;
