@@ -28,7 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Huazhong University of Science and Technology"
   location         :
-  employer         : "Huazhong University of Science and Technology"
+  employer         : "Huazhong University of Sci. and Tech."
+  employer_url     : "https://hust.edu.cn"
   uri              : # URL
   email            :
 
