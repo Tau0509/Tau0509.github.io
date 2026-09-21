@@ -7,14 +7,14 @@ redirect_from:
   - /resume
 ---
 
-## 陶子昊
+## Zihao Tao
 
-华中科技大学博士生。
+PhD student at Huazhong University of Science and Technology.
 
-## 教育经历
+## Education
 
-- 华中科技大学，博士在读
+- PhD student, Huazhong University of Science and Technology
 
-## 发表论文
+## Publications
 
-暂无发表论文。
+No publications yet.
