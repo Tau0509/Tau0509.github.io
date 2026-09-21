@@ -313,6 +313,24 @@
     line-height: 1.4;
   }
 
+  li.author__employer {
+    display: flex;
+    align-items: flex-start;
+    width: 100%;
+    max-width: $sidebar-link-max-width;
+
+    i {
+      flex: 0 0 auto;
+      margin-top: 0.15em;
+    }
+
+    span {
+      min-width: 0;
+      white-space: normal;
+      overflow-wrap: break-word;
+    }
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
