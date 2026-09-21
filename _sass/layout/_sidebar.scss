@@ -307,6 +307,12 @@
     white-space: nowrap;
   }
 
+  li.author__desktop {
+    white-space: normal;
+    overflow-wrap: anywhere;
+    line-height: 1.4;
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
